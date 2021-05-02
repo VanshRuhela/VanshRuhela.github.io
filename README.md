@@ -25,9 +25,9 @@
 * HTML CSS JAVASCRIPT restAPI
 
 ## API's used in this project
-* [GNEWS API](https://gnews.io/) > To GET latest news on Covid 19
-* [GeoPlugin API](https://www.geoplugin.com/) > To GET the counrty of the client, it basically uses IP to figure that out.
-* [Covid19API](https://covid19api.com/) > To fetch covid stats of client's country
+* [GNEWS API](https://gnews.io/ "GNEWS an alternative of google news") > To GET latest news on Covid 19
+* [GeoPlugin API](https://www.geoplugin.com/ "geoPlugin") > To GET the counrty of the client, it basically uses IP to figure that out.
+* [Covid19API](https://covid19api.com/ "covid19API") > To fetch covid stats of client's country
 
 ## Features
 * It is a responsive single page application.
