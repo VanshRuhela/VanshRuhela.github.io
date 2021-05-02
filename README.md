@@ -1,8 +1,38 @@
-# COVID-19 Stats & News
+# Covid-19 Stats and News
 
-API used are :-
-geoplugin = It will track your ip adress and will give you your country stats.
-covid19 = It is used to populate the stats and to populate the Charts
-gnews = It is used to provide latest News and Information on Covid.
+## What it does.?
 
-# VanshRuhela.github.io
+* As the name suggests it a project created for knowing the covid stats of a country and the latest news regarding the same.
+* Project status: Working
+
+
+
+## Table of contents
+
+
+
+> * [Covid-19 Stats and News](#title--repository-name)
+>   * [What it does.?](#about--What-it-does.?)
+>   * [Table of contents](#table-of-contents)
+>   * [Tech Used](#Tech-used)
+>   * [API's used in this project](#API's-used-in-this-project)
+>   * [Features](#Features)
+>   * [How to use this web app](#How-to-use-this-web-app)
+
+
+
+## Tech used
+* HTML CSS JAVASCRIPT restAPI
+
+## API's used in this project
+* [GNEWS API](https://gnews.io/) > To GET latest news on Covid 19
+* [GeoPlugin API](https://www.geoplugin.com/) > To GET the counrty of the client, it basically uses IP to figure that out.
+* [Covid19API](https://covid19api.com/) > To fetch covid stats of client's country
+
+## Features
+* It is a responsive single page application.
+*It auto detects the client's country and fetch the required data / stats of client's country
+* It plots a chart for the data on COVID19 vs Dates which is recieved from the [API](https://covid19api.com/) 
+
+## How to use this web app
+> [Just click this link ](https://vanshruhela.github.io/ "Covid Stats and Information")
