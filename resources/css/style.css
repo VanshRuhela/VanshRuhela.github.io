@@ -54,6 +54,7 @@ header{
     width: 60px;
 }
 .logo p {
+    padding-top: 15px;
     font-weight: bold;
     color: #6a149b;
 }
